@@ -17,6 +17,7 @@ export const Portfolio:React.FC<{}>=()=>{
         <Grid>
             <About/>
         </Grid>
+        
         </Box>
         </>
 }

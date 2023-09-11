@@ -13,7 +13,7 @@ export const About: React.FC<{}> = () => {
       About Me
     </Typography>
     <Typography variant="body1" className="mb-4" style={{ lineHeight: '2.0', fontSize: '20px', color: '#666' }}>
-      My name is Sameer Ahmed Jan. I’m a graduate of 2023 from Visvesvaraya Technological University at Basavakalyan Engineering College, Basavakalyan with a degree in Computer Science and Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time, I like working on open-source projects.
+       Myself Faizul Mateen. I’m a graduate of 2023 from Ballari Institute of technology and management  College,  with a degree in Computer Science and Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time, I like working on open-source projects.
     </Typography>
     
     
